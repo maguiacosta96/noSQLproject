@@ -44,7 +44,7 @@ To prevent duplication, Cypher `MERGE` statements were used when creating nodes 
 - Cypher
 
 ## 📂 Files
-- `notebook_name.ipynb`: Full development process including MongoDB queries, data cleaning, and Neo4j graph loading.
+- `Actividad_NoSQL_Acosta.ipynb`: Full development process including MongoDB queries, data cleaning, and Neo4j graph loading.
 
 ## 🎯 Objective
 To demonstrate the integration of document-based and graph-based databases within a single workflow, highlighting data cleaning, indexing, modeling, and relational analysis using graph structures.
